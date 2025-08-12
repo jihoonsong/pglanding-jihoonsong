@@ -1,0 +1,58 @@
+[
+    {
+      "title": "How to Implement EIP-7805 in the CL",
+      "description": "A comprehensive guide for implementing EIP-7805 in the CL",
+      "label": "CL",
+      "url": "https://hackmd.io/@jihoonsong/rJX-fxADxl",
+      "date": "2025-08-07"
+    },
+    {
+      "title": "How to Implement EIP-7805 in the EL",
+      "description": "A comprehensive guide for implementing EIP-7805 in the EL",
+      "label": "EL",
+      "url": "https://hackmd.io/@jihoonsong/BJpcaudvex",
+      "date": "2025-07-31"
+    },
+    {
+      "title": "EIP-7805 Execution Specification",
+      "description": "The Execution specification for EIP-7805",
+      "label": "EL",
+      "url": "https://github.com/ethereum/execution-specs/pull/1349",
+      "date": "2025-07-26"
+    },
+    {
+      "title": "EIP-7805 Consensus Specification",
+      "description": "The consensus specification for EIP-7805",
+      "label": "CL",
+      "url": "https://github.com/ethereum/consensus-specs/tree/b9dfb4575c51bb94ad0077e7b209db5720c8bb78/specs/_features/eip7805",
+      "date": "2025-07-17"
+    },
+    {
+      "title": "EIP-7805 Kurtosis Configurations",
+      "description": "Kurtosis configurations for EIP-7805 local devnets",
+      "label": "CL",
+      "url": "https://github.com/jihoonsong/local-devnet-focil",
+      "date": "2025-04-05"
+    },
+    {
+      "title": "EIP-7805 Geth Prototype",
+      "description": "Geth prototype for EIP-7805",
+      "label": "EL",
+      "url": "https://github.com/ethereum/go-ethereum/pull/30914",
+      "date": "2025-02-25"
+    },
+    {
+      "title": "EIP-7805 Execution APIs Specification",
+      "description": "The Execution APIs specification for EIP-7805",
+      "label": "EL",
+      "url": "https://github.com/ethereum/execution-apis/pull/609",
+      "date": "2024-12-24"
+    },
+    {
+      "title": "EIP-7805: Fork-choice enforced Inclusion Lists (FOCIL)",
+      "description": "A robust mechanism to preserve Ethereum's censorship resistance properties by guaranteeing timely transaction inclusion",
+      "label": "CL",
+      "url": "https://eips.ethereum.org/EIPS/eip-7805",
+      "date": "2024-11-01"
+    }
+  ]
