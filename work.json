@@ -1,5 +1,12 @@
 [
     {
+      "title": "EIP-7782 Prysm Prototype",
+      "description": "Prysm prototype for EIP-7782",
+      "label": "CL",
+      "url": "https://github.com/jihoonsong/prysm/tree/eip7782",
+      "date": "2025-08-27"
+    },
+    {
       "title": "ePBS and FOCIL — EthStaker Community Call",
       "description": "A discussion on what ePBS and FOCIL are and how they impact stakers",
       "label": "CL",
