@@ -1,5 +1,12 @@
 [
     {
+      "title": "ePBS and FOCIL — EthStaker Community Call",
+      "description": "A discussion on what ePBS and FOCIL are and how they impact stakers",
+      "label": "CL",
+      "url": "https://www.youtube.com/watch?v=GiQyu1xSipA",
+      "date": "2025-08-22"
+    },
+    {
       "title": "How to Implement EIP-7805 in the CL",
       "description": "A comprehensive guide for implementing EIP-7805 in the CL",
       "label": "CL",
