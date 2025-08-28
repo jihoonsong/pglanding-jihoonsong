@@ -22,7 +22,7 @@
     },
     {
       "title": "EIP-7805 Consensus Specification",
-      "description": "The consensus specification for EIP-7805",
+      "description": "The Consensus specification for EIP-7805",
       "label": "CL",
       "url": "https://github.com/ethereum/consensus-specs/tree/b9dfb4575c51bb94ad0077e7b209db5720c8bb78/specs/_features/eip7805",
       "date": "2025-07-17"
