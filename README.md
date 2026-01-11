@@ -23,3 +23,4 @@
 ### Podcasts
 
 - **[ePBS and FOCIL - EthStaker Community Call](https://www.youtube.com/watch?v=GiQyu1xSipA)** — 2025-08-22
+- **[From Draft to Inclusion: A proposal's Journey — Devconnect 2025](https://www.youtube.com/watch?v=i8HO-bAivno)** — 2025-11-21
