@@ -1,5 +1,12 @@
 [
     {
+      "title": "FOCIL Readiness for Hegotá",
+      "description": "An overview of FOCIL Readiness for Hegotá",
+      "label": "CL",
+      "url": "https://ethereum-magicians.org/t/focil-readiness-for-hegota/27245",
+      "date": "2025-12-20"
+    },
+    {
       "title": "From Draft to Inclusion: A proposal's Journey — Devconnect 2025",
       "description": "An overview of EIP's journey from Draft to Inclusion",
       "label": "CL",

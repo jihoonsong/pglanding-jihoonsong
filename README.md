@@ -19,6 +19,7 @@
 - **[How to Implement FOCIL in the CL](https://hackmd.io/@jihoonsong/rJX-fxADxl)** — 2025-08-07
 - **[How to Implement FOCIL in the EL](https://hackmd.io/@jihoonsong/BJpcaudvex)** — 2025-07-31
 - **[Setting Up a Local FOCIL Devnet with Kurtosis](https://hackmd.io/@jihoonsong/Skidf4ePye)** — 2025-01-15
+- **[FOCIL Readiness for Hegotá](https://ethereum-magicians.org/t/focil-readiness-for-hegota/27245)** — 2025-12-20
 
 ### Podcasts
 
