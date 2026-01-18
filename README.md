@@ -2,17 +2,17 @@
 
 ### Specifications
 
-- **[Consensus Specifications](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3Ajihoonsong+)**
-- **[Execution Specifications](https://github.com/ethereum/execution-specs/pulls?q=is%3Apr+author%3Ajihoonsong+)**
-- **[Execution API Specifications](https://github.com/ethereum/execution-apis/pulls?q=is%3Apr+author%3Ajihoonsong+)**
+- **[Consensus Specifications](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+involves%3Ajihoonsong)**
+- **[Execution Specifications](https://github.com/ethereum/execution-specs/pulls?q=is%3Apr+involves%3Ajihoonsong)**
+- **[Execution API Specifications](https://github.com/ethereum/execution-apis/pulls?q=is%3Apr+involves%3Ajihoonsong)**
 
 ### Code
 
-- **[Geth](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Ajihoonsong+)**
-- **[Prysm](https://github.com/OffchainLabs/prysm/pulls?q=is%3Apr+author%3Ajihoonsong+)**
+- **[Geth](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+involves%3Ajihoonsong)**
+- **[Prysm](https://github.com/OffchainLabs/prysm/pulls?q=is%3Apr+involves%3Ajihoonsong)**
 - **[Dora the Explorer](https://github.com/ethpandaops/dora/pulls?q=is%3Apr+author%3Ajihoonsong)**
-- **[ethereum-genesis-generator](https://github.com/ethpandaops/ethereum-genesis-generator/pulls?q=is%3Apr+author%3Ajihoonsong+)**
-- **[go-eth2-client](https://github.com/attestantio/go-eth2-client/pulls?q=is%3Apr+author%3Ajihoonsong+)**
+- **[ethereum-genesis-generator](https://github.com/ethpandaops/ethereum-genesis-generator/pulls?q=is%3Apr+involves%3Ajihoonsong)**
+- **[go-eth2-client](https://github.com/attestantio/go-eth2-client/pulls?q=is%3Apr+involves%3Ajihoonsong)**
 
 ### Posts
 
