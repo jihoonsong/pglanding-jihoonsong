@@ -23,6 +23,7 @@
 
 ### Podcasts
 
+- **[Hegotá Proposed Headliners - EthStaker Community Call](https://www.youtube.com/watch?v=s3FZk51h41g)** — 2025-02-16
 - **[Ready for Merge — The Hegotá CL Headliner Debate](https://www.youtube.com/watch?v=aYwUNklmhHg)** — 2025-02-16
 - **[ePBS and FOCIL - EthStaker Community Call](https://www.youtube.com/watch?v=GiQyu1xSipA)** — 2025-08-22
 - **[From Draft to Inclusion: A proposal's Journey — Devconnect 2025](https://www.youtube.com/watch?v=i8HO-bAivno)** — 2025-11-21
