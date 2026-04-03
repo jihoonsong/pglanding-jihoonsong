@@ -27,3 +27,4 @@
 - **[Ready for Merge — The Hegotá CL Headliner Debate](https://www.youtube.com/watch?v=aYwUNklmhHg)** — 2025-02-16
 - **[ePBS and FOCIL - EthStaker Community Call](https://www.youtube.com/watch?v=GiQyu1xSipA)** — 2025-08-22
 - **[From Draft to Inclusion: A proposal's Journey — Devconnect 2025](https://www.youtube.com/watch?v=i8HO-bAivno)** — 2025-11-21
+- **[FOCIL: Past, Present and Future — EthCC 2026](https://www.youtube.com/watch?v=1trSdmKR9co)** — 2026-04-01

@@ -1,5 +1,26 @@
 [
     {
+      "title": "FOCIL: Past, Present and Future",
+      "description": "An overview of how FOCIL came about, how it's designed to work, and how it can integrate with Frame transaction and support blob transaction in the future.",
+      "label": "CL",
+      "url": "https://www.youtube.com/watch?v=1trSdmKR9co",
+      "date": "2026-04-01"
+    },
+    {
+      "title": "FOCIL and Blob Streaming",
+      "description": "An overview of how FOCIL can support blob transactions in the future.",
+      "label": "CL",
+      "url": "https://x.com/jih2nn/status/2037177069629521934",
+      "date": "2026-03-26"
+    },
+    {
+      "title": "FOCIL and Frame Transaction",
+      "description": "An overview of how FOCIL can integrate with Frame transaction in the future.",
+      "label": "CL",
+      "url": "https://x.com/jih2nn/status/2037084454548889684",
+      "date": "2026-03-26"
+    },
+    {
       "title": "FOCIL Readiness for Hegotá",
       "description": "An overview of FOCIL Readiness for Hegotá",
       "label": "CL",
